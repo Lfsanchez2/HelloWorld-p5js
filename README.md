@@ -1,13 +1,9 @@
 ## Empty Example for P5.js
 #### by Scott Kildall
-#### Last updated Jan 24 2022
+#### modified by Luis Sanchez
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
 
-
-### Technical Details
-
-Modify the sketch.js setup() and draw() functions and begin adding functions!
+draw() function has been modified to display animated "Hello World!".
